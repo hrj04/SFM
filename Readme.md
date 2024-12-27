@@ -17,6 +17,7 @@ If you want to rerun the experiments, execute each Exp*.ipynb file individually.
 
 ## References
 Zhang, L., et al. (2017). "Stock Price Prediction via Discovering Multi-Frequency Trading Patterns." - KDD
+
 paper : (https://dl.acm.org/doi/10.1145/3097983.3098117)
 
 
